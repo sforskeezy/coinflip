@@ -1,0 +1,31 @@
+minimum-bet: 7500
+gui-title: "&7Coinflip Menu"
+choose-side-title: "&7Heads or Tails?"
+in-progress-title: "&7Coinflip in Progress"
+heads-item: DIAMOND
+tails-item: EMERALD
+heads-data: 0
+tails-data: 0
+animation-ticks: 80
+switch-interval: 5
+switch-sound: CLICK
+switch-sound-volume: 1.0
+switch-sound-pitch: 1.0
+win-sound: LEVEL_UP
+win-sound-volume: 1.0
+win-sound-pitch: 1.0
+
+## INFO GUI ITEM CONFIGURATION ##
+
+InfoLore:
+  - "&7"
+  - "&7Type /cf <amount> to submit a coinflip."
+  - "&7Type /cf cancel to cancel a coinflip."
+  - "&7"
+  - "&9&lINFO &7- &7Coinflip"
+  - "&7is a game where you can"
+  - "&7bet against another player."
+  - "&7and the winner takes all."
+
+
+

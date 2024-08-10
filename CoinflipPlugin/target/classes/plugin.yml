@@ -1,0 +1,15 @@
+name: CoinflipPlugin
+version: '1.0-SNAPSHOT'
+main: com.skeezy.coinflip.coinflipplugin.CoinflipPlugin
+author: sforskeezy | github.com/sforskeezy
+description: Complex coinflip plugin
+
+
+depend:
+    - Vault
+
+commands:
+    coinflip:
+        description: Coinflip command
+        usage: /coinflip <bet>
+        aliases: [cf]
